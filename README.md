@@ -14,5 +14,5 @@
 
 ## 개발에 대해...
  - 기존에 있던 부트스트랩을 활용하여 저의 스타일에 맞게 구조 및 디자인을 변경하였습니다. 
- - <a href = "https://jeongseokdev.github.io/Portfolio/" target = "_blank">https://jeongseokdev.github.io/Portfolio/</a>
+ - https://jeongseokdev.github.io/Portfolio/
 </br>
